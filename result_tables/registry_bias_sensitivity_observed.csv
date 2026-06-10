@@ -1,0 +1,3 @@
+unit_type,control_set,metric,metric_label,observed_did,target_relic,target_founder,control_relic,control_founder
+surname_region_terminal,non_I2_excl_R1a,own_family_social_xsurname_xlocation,Shared Slava or region,0.3361571142382236,52/128,70/417,27/219,296/1339
+surname_region_terminal,non_I2_excl_R1a,own_family_cloud_xsurname_xlocation,Coordinate cloud,0.3094009455008757,45/128,44/417,19/219,201/1339

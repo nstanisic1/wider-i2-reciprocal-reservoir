@@ -1,0 +1,5 @@
+unit_type,is_i2,branch_class,n
+surname_region_terminal,TRUE,Founder,21
+surname_region_terminal,TRUE,Relic,43
+surname_region_terminal,FALSE,Founder,1800
+surname_region_terminal,FALSE,Relic,275

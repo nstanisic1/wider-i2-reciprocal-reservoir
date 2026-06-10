@@ -1,0 +1,5 @@
+metric,metric_label,scenario,scenario_label,median_zero_bias,p05_zero_bias,did_at_10pct,did_at_15pct,did_at_20pct,positive_prob_at_10pct,positive_prob_at_15pct,positive_prob_at_20pct,median_zero_label
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.15000000000000002,0.125,0.07908712893440659,-0.036758756506207135,-0.15214205675803305,0.9942,0.1262,0,15.0%
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.5,0.35000000000000003,0.2485560916273069,0.21653946686610118,0.1864732081818969,1,1,0.9998,50.0%
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.15000000000000002,0.125,0.10247760031102664,-0.012293896870441898,-0.1311185043162131,0.9998,0.3516,6e-4,15.0%
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,NA,0.375,0.26837289238580597,0.23474901799610573,0.20223324078033858,1,1,1,not reached by 50%

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Reciprocal I2 Relic Retention Public Replication Package"
+message: "If you use this repository, please cite the archived repository release."
+type: software
+authors:
+  - family-names: "Stanisic"
+    given-names: "Nemanja"
+    affiliation: "Singidunum University, Belgrade, Serbia"
+    email: "nstanisic@singidunum.ac.rs"
+repository-code: "https://github.com/nstanisic1/wider-i2-reciprocal-reservoir"
+abstract: >
+  Public replication package for "Reciprocal relic retention
+  in the Serbian DNA Project Y-chromosome register: evidence for a broader I2 patrilineal
+  reservoir". The repository contains public source tables, deterministic
+  preprocessing, numbered analysis scripts, result tables, and figures.
+license: "MIT"
+keywords:
+  - Y chromosome
+  - I2
+  - PH908
+  - Balkans
+  - patrilineal reservoir
+  - reproducible research
+  - population genetics
+version: "1.0.0"
+date-released: 2026-06-11

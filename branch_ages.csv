@@ -1,0 +1,130 @@
+terminal_snp,tmrca_ybp,source,notes
+MF99099,550,YFull,PH908 top-priority
+Y441928,1350,YFull,PH908 top-priority
+FT174826,275,YFull,PH908 top-priority
+FT256359,1100,YFull,PH908 top-priority
+FTB90047,650,YFull,PH908 top-priority
+A16681,1650,YFull,PH908 top-priority
+BY97841,50,YFull,PH908 top-priority
+FT190854,275,YFull,PH908 top-priority
+FT25907,1100,YFull,PH908 top-priority
+FT352070,850,YFull,PH908 top-priority
+FTA49542,800,YFull,PH908 top-priority
+Y135653,475,YFull,PH908 top-priority
+Y151087,1000,YFull,PH908 top-priority
+Y189076,850,YFull,PH908 top-priority
+Y189944,750,YFull,PH908 top-priority
+Y255062,475,YFull,PH908 top-priority
+Y499136,175,YFull,PH908 top-priority
+A29945,425,YFull,PH908 top-priority
+BY55537,650,YFull,PH908 top-priority
+BY77359,1050,YFull,PH908 top-priority
+FT109387,950,YFull,PH908 top-priority
+FT176119,450,YFull,PH908 top-priority
+Y135654,800,YFull,PH908 top-priority | updated from prior 1200 after direct YFull re-check
+Y189089,550,YFull,PH908 top-priority
+Y232617,550,YFull,PH908 top-priority
+Y571460,225,YFull,PH908 top-priority
+Y596557,100,YFull,PH908 top-priority
+Y199158,1300,YFull,PH908 top-priority
+Y283553,4200,YFull,PH908 top-priority
+FT14506,1600,YFull,PH908 top-priority
+FT16449,1650,YFull,PH908 top-priority
+BY93199,600,YFull,PH908 top-priority
+Y56203,1500,YFull,PH908 top-priority
+Y58629,750,YFull,PH908 top-priority
+Y51673,1000,YFull,PH908 top-priority
+FT190799,850,YFull,PH908 top-priority
+FT109402,1000,YFull,PH908 top-priority | current direct re-check unavailable/page error; retained prior verified value
+FT386055,900,YFull,PH908 top-priority
+Y134585,800,YFull,PH908 top-priority
+R-FT285270,1400,YFull,R1a top-priority
+R-FTG3496,200,YFull,R1a top-priority
+R-YP617,3800,YFull,R1a top-priority
+R-BY108084,500,YFull,R1a top-priority
+R-FTB69732,1450,YFull,R1a top-priority
+R-Y260528,850,YFull,R1a top-priority
+R-Y2915,1850,YFull,R1a top-priority
+R-Y476929,900,YFull,R1a top-priority
+R-L260,2600,YFull,R1a top-priority
+R-YP1337,1900,YFull,R1a top-priority
+R-YP337,1900,YFull,R1a top-priority
+R-CTS1211,4600,YFull,R1a top-priority
+R-FT255070,1700,YFull,R1a top-priority
+R-FTB42580,2000,YFull,R1a top-priority
+R-P278.2,1950,YFull,R1a top-priority
+R-Y208600,425,YFull,R1a top-priority
+R-Y289137,500,YFull,R1a top-priority
+R-YP343,4000,YFull,R1a top-priority
+R-YP3992,800,YFull,R1a top-priority
+R-FT257011,550,YFull,R1a top-priority
+R-BY202471,1400,YFull,R1a top-priority
+R-Y105217,1350,YFull,R1a top-priority
+R-YP5882,1900,YFull,R1a top-priority
+R-L1029,2100,YFull,R1a top-priority
+R-Z280,4600,YFull,R1a top-priority
+R-BY99654,1150,YFull,R1a top-priority
+R-Y189493,1000,YFull,R1a top-priority
+R-Y260767,850,YFull,R1a top-priority
+R-FT371439,600,YFull,R1a top-priority
+R-FT288648,900,YFull,R1a top-priority
+R-BY169316,1650,YFull,R1a top-priority
+R-YP270,3100,YFull,R1a top-priority
+R-BY30743,800,YFull,R1a top-priority
+R-A19673,1300,YFull,
+R-BY170000,750,YFull,
+R-BY202402,1150,YFull,
+R-BY212473,900,YFull,
+R-FGC45861,3900,YFull,
+R-FT242663,275,YFull,
+R-FT36801,2000,YFull,
+R-FT62520,1500,YFull,
+R-FTA3457,425,YFull,
+R-FTA41717,750,YFull,
+R-FTB36486,2000,YFull,
+R-FTB3834,950,YFull,
+R-FTB79552,1650,YFull,
+R-L1280,2300,YFull,
+R-L366,2500,YFull,
+R-R1a,18200,YFull,
+R-S23592,4400,YFull,
+R-S24902,4300,YFull,
+R-Y137854,950,YFull,
+R-Y144943,650,YFull,
+R-Y155362,1100,YFull,
+R-Y180983,1800,YFull,
+R-Y18555,1500,YFull,
+R-Y190918,850,YFull,
+R-Y2608,1800,YFull,
+R-Y275542,1050,YFull,
+R-Y2902,2500,YFull,
+R-Y290723,1200,YFull,
+R-Y306022,1300,YFull,
+R-Y310326,275,YFull,
+R-Y3219,2500,YFull,
+R-Y323345,950,YFull,
+R-Y38780,1400,YFull,
+R-Y4459,3400,YFull,
+R-Y465102,800,YFull,
+R-Y526047,350,YFull,
+R-Y5647,2200,YFull,
+R-Y87252,1350,YFull,
+R-YP340,2800,YFull,
+R-YP371,2400,YFull,
+R-YP3982,2400,YFull,
+R-YP3987,1450,YFull,
+R-YP3989,1300,YFull,
+R-YP417,2000,YFull,
+R-YP4278,1700,YFull,
+R-YP4758,4800,YFull,
+R-YP5224,2000,YFull,
+R-Z93,4600,YFull,
+FT18830,850,YFull,
+Y134578,1050,YFull,
+Y190065,650,YFull,
+FT226393,550,YFull,
+Y151633,1650,YFull,
+Y52621,1250,YFull,
+BY188335,800,YFull,
+FT124969,275,YFull,
+Y183830,1600,YFull,

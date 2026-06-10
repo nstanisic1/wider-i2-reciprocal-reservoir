@@ -1,0 +1,48 @@
+node	age_ybp	tier	notes
+Y3120	2200	Deep	Root Dinaric
+S17250	2000	Deep	Major Dinaric North parallel
+Y4460	2000	Deep	Major branch under Y3120
+Z17855	1850	Deep	Major branch
+Z16971	1900	Deep	Under Dinaric North
+PH908	1700	Mid	Core Dinaric South root
+BY92056	1650	Mid	Under Z17855 path
+FT16449	1650	Mid	Key ancient split
+FT14506	1600	Mid	Key ancient split
+Z16983	1600	Mid	Under PH908
+Y4789	1600	Mid	Under Z16983
+A8741	1600	Mid	Under PH908
+BY200456	1700	Mid	Under PH908
+A5913	1550	Mid	Under PH908
+BY169079	1550	Mid	Under Y3120
+A16413	1500	Mid	Under PH908 line
+Y32084	1700	Mid	Under PH908
+Y263173	1500	Mid	Under A16413 line
+BY116090	1450	Mid/Shallow	Under Z17855 line
+Y398095	1350	Shallow	Under PH908
+Y95760	1350	Shallow	Under PH908
+Y84307	1350	Shallow	Under PH908
+Y81557	1350	Shallow	Under FT16449
+Y330253	1400	Shallow	Under PH908
+Y260989	1150	Shallow	Under PH908
+Y331025	1150	Shallow	Under PH908
+Y109645	1050	Shallow	Under FT16449
+Y177200	1000	Shallow	Under PH908
+Y93273	950	Shallow	Under PH908
+Y359689	950	Shallow	Under PH908
+Y45843	900	Shallow	Under FT16449
+Y46636	900	Shallow	Under FT16449
+Y339476	850	Shallow	Under PH908
+Y313595	850	Shallow	Under PH908
+BY79593	1250	Shallow	Under PH908
+Y474927	800	Shallow	Under BY190177
+Y476914	4700	Shallow	Terminal
+Y33690	5700	Shallow	Terminal
+Y183257	1200	Shallow	Under FT16449
+Y319762	600	Shallow	Terminal
+Y483870	600	Shallow	Terminal
+Y486674	550	Shallow	Terminal
+Y218167	550	Shallow	Terminal
+Y33778	1425	Shallow	Terminal
+Y267977	250	Shallow	Terminal
+Y336366	250	Shallow	Terminal
+Y189170	300	Shallow	Terminal

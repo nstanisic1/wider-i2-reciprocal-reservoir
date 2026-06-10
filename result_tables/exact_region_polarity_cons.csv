@@ -1,0 +1,7 @@
+unit_type,observed,max_p,min_p,most_conservative_null,n_units,n_perm,lineage_exact_strata,lineage_exact_swappable_strata,lineage_exact_units_in_swappable,lineage_exact_fraction_units_swappable,class_exact_strata,class_exact_swappable_strata,class_exact_units_in_swappable,class_exact_fraction_units_swappable
+terminal_branch,0.6522951522951523,1,1,lineage_within_class_exact_region,159,500,57,26,108,0.6792452830188679,54,21,113,0.710691823899371
+location_terminal,0.3849763459519557,1,1,lineage_within_class_exact_region,1275,500,109,72,1195,0.9372549019607843,77,62,1247,0.9780392156862745
+cluster,0.37323455458781973,1,1,lineage_within_class_exact_region,1351,500,109,72,1268,0.9385640266469282,77,62,1323,0.9792746113989638
+surname_region_terminal,0.3559865617497864,1,1,lineage_within_class_exact_region,1292,500,109,72,1211,0.9373065015479877,77,62,1264,0.978328173374613
+surname_slava_region_terminal,0.3529327333427561,1,1,lineage_within_class_exact_region,1298,500,109,72,1217,0.9375963020030816,77,62,1270,0.9784283513097073
+slava_region_terminal,0.2878429723141537,1,1,lineage_within_class_exact_region,865,500,109,72,800,0.9248554913294798,77,62,842,0.9734104046242774

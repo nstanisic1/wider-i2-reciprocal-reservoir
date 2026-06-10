@@ -1,0 +1,16 @@
+# Local execution products
+logs/
+analysis/outputs/
+results/
+tables/
+facts/
+figuredata/
+
+# Local environment noise
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store

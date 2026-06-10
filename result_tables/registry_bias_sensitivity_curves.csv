@@ -1,0 +1,85 @@
+metric,metric_label,scenario,scenario_label,bias_level,n_sim,median_did,p05,p95,prob_positive
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0,5000,0.3094009455008757,0.3094009455008757,0.3094009455008757,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.025,5000,0.25252034652547434,0.22674487529926035,0.2746647417070998,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.05,5000,0.19498964012314962,0.1581478270060249,0.22657660569282104,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.07500000000000001,5000,0.13718934932414592,0.0931669827550903,0.1748860707354963,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.1,5000,0.07908712893440659,0.030277395744943543,0.12449994252554422,0.9942
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.125,5000,0.021909043337828144,-0.03177854486260705,0.07137934018469086,0.7522
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.15000000000000002,5000,-0.036758756506207135,-0.09427472898416614,0.016926591435528104,0.1262
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.17500000000000002,5000,-0.09354715588507023,-0.1547125161007597,-0.034952121860063586,0.0048
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.2,5000,-0.15214205675803305,-0.21550875381901605,-0.09005893603671593,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.225,5000,-0.20900831586973456,-0.2776031058874395,-0.14485548961147715,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.25,5000,-0.26881259121652923,-0.33806216758411123,-0.2027486312004393,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.275,5000,-0.32503558776353547,-0.3976849663360659,-0.2565412758172133,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.30000000000000004,5000,-0.38242450238096937,-0.4564597891430684,-0.31312657220420986,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.325,5000,-0.44160805651799673,-0.5164725054181746,-0.3689743511312876,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.35000000000000003,5000,-0.4986393135713941,-0.5748835607993447,-0.42356815421155347,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.375,5000,-0.5561465169225479,-0.6336841708849509,-0.4802531400790137,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.4,5000,-0.6140048173155952,-0.6928010060345895,-0.5379196742065921,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.42500000000000004,5000,-0.6717443313078981,-0.7501320622460209,-0.5933588673183013,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.45,5000,-0.7290293976812268,-0.8064947441612681,-0.6520759385744395,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.47500000000000003,5000,-0.788096523034777,-0.865776189488244,-0.709447047512915,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,directed_adversarial_bias,Coordinated adverse bias,0.5,5000,-0.8465415679620361,-0.9251358464129236,-0.7698837288177888,0
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0,5000,0.3094009455008757,0.3094009455008757,0.3094009455008757,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.025,5000,0.2942477085397679,0.2626843686123819,0.32578080896140715,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.05,5000,0.2782652789653041,0.232992973277802,0.3228548083901341,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.07500000000000001,5000,0.26298185957484843,0.2082459422180099,0.31712535029165123,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.1,5000,0.2485560916273069,0.18602258478852282,0.30976396287072255,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.125,5000,0.2325616480852884,0.16731880696707124,0.30011842106158954,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.15000000000000002,5000,0.21653946686610118,0.14456834767934576,0.29115442529144453,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.17500000000000002,5000,0.20117791547783187,0.1237344526234057,0.2791588418421963,1
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.2,5000,0.1864732081818969,0.10452386755196803,0.26772385436318813,0.9998
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.225,5000,0.17127144135459432,0.0859281590400795,0.254205675193801,0.9998
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.25,5000,0.1550627438689171,0.06546362250205157,0.24336840935754986,0.9986
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.275,5000,0.1388032716008028,0.048839214838319954,0.23249664637017822,0.995
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.30000000000000004,5000,0.12416810984545357,0.029177473487413664,0.21959598313016854,0.9852
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.325,5000,0.10859514772270701,0.013760081051065529,0.20552972247139625,0.9708
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.35000000000000003,5000,0.09296821436346378,-0.005512526048810158,0.1905386060779089,0.941
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.375,5000,0.07975799337920278,-0.0222409388851569,0.1799657340469814,0.8998
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.4,5000,0.06160904712933593,-0.04037853069846492,0.15983085176257295,0.8402
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.42500000000000004,5000,0.04750562807066597,-0.05606047154945891,0.14588217325193018,0.7732
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.45,5000,0.03036684113352614,-0.07344357244812248,0.13391249264775326,0.6844
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.47500000000000003,5000,0.015907261057758415,-0.08807659231858272,0.11657904598050622,0.6062
+own_family_cloud_xsurname_xlocation,Coordinate cloud,random_registry_noise,Non-directional registry noise,0.5,5000,-3.540560187940134e-4,-0.10302054939958535,0.09991006609655963,0.4976
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0,5000,0.3361571142382236,0.3361571142382236,0.3361571142382236,1
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.025,5000,0.27840843705844964,0.2516489290740773,0.3005330030123037,1
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.05,5000,0.21984648724338485,0.18300614314961527,0.2521976460688233,1
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.07500000000000001,5000,0.16136797844939904,0.11781064448304779,0.2013453923820646,1
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.1,5000,0.10247760031102664,0.051816199436432356,0.14828776025326934,0.9998
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.125,5000,0.045195225153830926,-0.008459339662632062,0.09646323864159514,0.915
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.15000000000000002,5000,-0.012293896870441898,-0.07214233998835798,0.040342959974251094,0.3516
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.17500000000000002,5000,-0.07276522217318782,-0.13418791328999063,-0.015450047366553884,0.0162
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.2,5000,-0.1311185043162131,-0.1957857505774156,-0.06830613657891552,6e-4
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.225,5000,-0.18915925846798387,-0.2563087957028568,-0.12609853813369648,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.25,5000,-0.24785947950260004,-0.31570157104070595,-0.1788299375295614,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.275,5000,-0.3071623524952123,-0.37979308916826554,-0.2360147064981497,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.30000000000000004,5000,-0.36448822076031256,-0.4382277179716629,-0.29512109933243824,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.325,5000,-0.42297817436251206,-0.4976300198907035,-0.3499503689796278,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.35000000000000003,5000,-0.4816966850675699,-0.5566382553267901,-0.40670565098991424,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.375,5000,-0.5414119451967762,-0.6195100385554959,-0.46529946433632347,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.4,5000,-0.5967792383227448,-0.6760518856595695,-0.519540376195468,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.42500000000000004,5000,-0.6574563241669342,-0.7380221966803111,-0.5787523504067013,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.45,5000,-0.7142074301442556,-0.7946563180549353,-0.6381950743498933,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.47500000000000003,5000,-0.7737717916516123,-0.8526844842881001,-0.6928400136608821,0
+own_family_social_xsurname_xlocation,Shared Slava or region,directed_adversarial_bias,Coordinated adverse bias,0.5,5000,-0.8330413089743148,-0.9102924574395391,-0.7519333740496067,0
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0,5000,0.3361571142382236,0.3361571142382236,0.3361571142382236,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.025,5000,0.31938934597408875,0.286717878790413,0.35162678250815516,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.05,5000,0.3021240053697576,0.2571722364325692,0.348371465115497,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.07500000000000001,5000,0.2860377154760789,0.23166565760340976,0.3393314095417938,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.1,5000,0.26837289238580597,0.20763533994065247,0.32953864165961577,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.125,5000,0.251586051964949,0.18497352165711345,0.31969206242114456,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.15000000000000002,5000,0.23474901799610573,0.16290809023753,0.3071453536540058,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.17500000000000002,5000,0.21846751459436872,0.14092072860977795,0.29742099662584787,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.2,5000,0.20223324078033858,0.12012326313460983,0.2819831954810435,1
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.225,5000,0.18259241893419903,0.10072200328220962,0.26956626371665005,0.9996
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.25,5000,0.16841472204192104,0.08601198823760414,0.25559128378647916,0.999
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.275,5000,0.1510233817879352,0.059304015144662485,0.24044789370364128,0.9972
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.30000000000000004,5000,0.13398159823267256,0.039262785456668496,0.22973968515525905,0.9892
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.325,5000,0.11629862538989647,0.021977925571550323,0.21774117119186887,0.9764
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.35000000000000003,5000,0.10059790735986207,0.002560628900022819,0.19790665136936567,0.955
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.375,5000,0.08528991761269905,-0.015525325776341655,0.18334411808346307,0.9202
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.4,5000,0.06607692179351143,-0.03247872762602523,0.16555432178536697,0.866
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.42500000000000004,5000,0.051152202643238054,-0.05189387714178251,0.15186700286371316,0.7892
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.45,5000,0.03357167455264104,-0.06940779434597326,0.1364188569627791,0.6982
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.47500000000000003,5000,0.016475001860870253,-0.08521890856880823,0.1192261000254039,0.5934
+own_family_social_xsurname_xlocation,Shared Slava or region,random_registry_noise,Non-directional registry noise,0.5,5000,2.414421074984907e-4,-0.10216835863756542,0.10418459318297357,0.5016
