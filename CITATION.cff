@@ -8,6 +8,7 @@ authors:
     affiliation: "Singidunum University, Belgrade, Serbia"
     email: "nstanisic@singidunum.ac.rs"
 repository-code: "https://github.com/nstanisic1/wider-i2-reciprocal-reservoir"
+doi: "10.5281/zenodo.20641012"
 abstract: >
   Public replication package for "Reciprocal relic retention
   in the Serbian DNA Project Y-chromosome register: evidence for a broader I2 patrilineal
@@ -22,5 +23,5 @@ keywords:
   - patrilineal reservoir
   - reproducible research
   - population genetics
-version: "1.0.0"
+version: "1.0.1"
 date-released: 2026-06-11

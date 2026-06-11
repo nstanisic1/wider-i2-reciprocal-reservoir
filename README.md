@@ -105,9 +105,15 @@ The primary reported result is the surname-region-terminal own-family social dif
 
 ## Citation
 
-Until the Zenodo DOI is minted, cite the repository as:
+This repository is archived on Zenodo. The all-version DOI is:
 
-Stanisic, N. *Reciprocal I2 Relic Retention Public Replication Package* (v1.0.0). GitHub repository: `https://github.com/nstanisic1/wider-i2-reciprocal-reservoir`.
+https://doi.org/10.5281/zenodo.20641012
+
+General archive citation:
+
+Stanisic, N. (2026). *Reciprocal I2 Relic Retention Public Replication Package*. Zenodo. https://doi.org/10.5281/zenodo.20641012
+
+For an exact archival citation, use the version-specific DOI shown on Zenodo for the release downloaded.
 
 ## License
 
